@@ -1,4 +1,4 @@
-﻿¿¿¿Git is a distributed version control system.
+﻿¿¿¿¿Git is a distributed version control system.
 Git is free software.
 
 #============
@@ -49,4 +49,6 @@ Creating a new branch is quick AND simple.
 afsadfgsa
 
 ------issue-101 is overed------------------
-afsadfgsa
+
+------dev1 working.....------------------
+
